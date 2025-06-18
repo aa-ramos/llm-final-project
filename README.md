@@ -17,7 +17,9 @@ Permite responder a perguntas gerais e específicas, analisar contratos (ex: FIN
 - Resume/compara apoios existentes (Garantia Pública, IMT, Porta 65 Jovem…).
   
   
-<img src="screenshots/home.png" alt="Interface Inicial" width="600"/>
+<div align="center">
+  <img src="screenshots/home.png" alt="Interface Inicial" width="700"/>
+</div>
 
 
 ✅ **Perguntas específicas sobre apoios e casos práticos**  
