@@ -6,7 +6,6 @@ Permite responder a perguntas gerais e específicas, analisar contratos (ex: FIN
 > ⚠️ **Aviso:** Este projeto destina-se apenas a fins informativos e educacionais, não constituindo aconselhamento financeiro. Todas as decisões financeiras são da inteira responsabilidade do utilizador.
 
 [![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 ---
 
@@ -16,27 +15,26 @@ Permite responder a perguntas gerais e específicas, analisar contratos (ex: FIN
 - Explica conceitos como TAEG, TAN, MTIC, Euribor e spread.  
 - Detalha as etapas do processo de compra de casa (documentos, IMT, prazos, etc.).  
 - Resume/compara apoios existentes (Garantia Pública, IMT, Porta 65 Jovem…).
+  
 
-### Interface Inicial  
 ![Interface Inicial](screenshots/home.png)
 
----
 
 ✅ **Perguntas específicas sobre apoios e casos práticos**  
 - “Como funciona o programa Porta 65?”  
 - “Quais os apoios para jovens até 35 anos?”  
 - “O que preciso para pedir um crédito à habitação?”
 
-### Interface Inicial com as medidas do Governo
+
 ![Interface Inicial com as medidas do Governo](screenshots/home2.png)
 
----
 
 ✅ **Análise de contratos - FINE**  
 - Permite fazer upload de um PDF e fazer perguntas específicas sobre o documento, com contexto dinâmico e respostas personalizadas.
 
-### Upload do PDF para análise  
+
 ![Upload PDF](screenshots/upload_pdf.png)
+
 
 ---
 
