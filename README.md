@@ -16,8 +16,8 @@ Permite responder a perguntas gerais e específicas, analisar contratos (ex: FIN
 - Detalha as etapas do processo de compra de casa (documentos, IMT, prazos, etc.).  
 - Resume/compara apoios existentes (Garantia Pública, IMT, Porta 65 Jovem…).
   
-
-![Interface Inicial](screenshots/home.png)
+  
+<img src="screenshots/home.png" alt="Interface Inicial" width="600"/>
 
 
 ✅ **Perguntas específicas sobre apoios e casos práticos**  
