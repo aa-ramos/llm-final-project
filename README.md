@@ -16,7 +16,6 @@ Permite responder a perguntas gerais e específicas, analisar contratos (ex: FIN
 - Detalha as etapas do processo de compra de casa (documentos, IMT, prazos, etc.).  
 - Resume/compara apoios existentes (Garantia Pública, IMT, Porta 65 Jovem…).
   
-  
 <div align="center">
   <img src="screenshots/home.png" alt="Interface Inicial" width="700"/>
 </div>
@@ -27,15 +26,17 @@ Permite responder a perguntas gerais e específicas, analisar contratos (ex: FIN
 - “Quais os apoios para jovens até 35 anos?”  
 - “O que preciso para pedir um crédito à habitação?”
 
-
-![Interface Inicial com as medidas do Governo](screenshots/home2.png)
+<div align="center">
+  <img src="screenshots/home2.png" alt="Interface Inicial" width="700"/>
+</div>
 
 
 ✅ **Análise de contratos - FINE**  
 - Permite fazer upload de um PDF e fazer perguntas específicas sobre o documento, com contexto dinâmico e respostas personalizadas.
 
-
-![Upload PDF](screenshots/upload_pdf.png)
+<div align="center">
+  <img src="screenshots/upload_pdf.png" alt="Interface Inicial" width="700"/>
+</div>
 
 
 ---
