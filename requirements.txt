@@ -1,0 +1,11 @@
+python-dotenv
+openai
+langchain
+langchain_openai 
+langchain-chroma
+langchain_community
+langchain-core
+langchain-text-splitters
+gradio
+PyMuPDF
+requests
